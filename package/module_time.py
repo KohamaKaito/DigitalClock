@@ -21,6 +21,3 @@ def get_time():
 		four = minute
     	
 	return one,two,three,four
-
-	
-

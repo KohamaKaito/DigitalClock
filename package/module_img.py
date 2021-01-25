@@ -6,4 +6,3 @@ def plot_img(img):
 	ax.imshow(img, cmap='gray',vmin=0,vmax=255)
 	plt.show()
 	
-
